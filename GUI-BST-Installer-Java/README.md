@@ -14,14 +14,6 @@ A lightweight GUI-based Java application to perform operations on a Binary Searc
 
 ---
 
-## 📸 Screenshots
-
-| Setup Flow | App Running |
-|------------|-------------|
-| ![Installer](./screenshots/installer-language-selection.png) |
-
----
-
 ## 🛠 Tech Stack
 
 - **Language:** Java
